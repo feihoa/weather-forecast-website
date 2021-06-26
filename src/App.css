@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+@import url(./input-zone/form.css);
+
+
+.container{
+  width: 75vw;
+  height: 80vh;
+  border: 25px solid red;
+  position: relative;
+}
+
+.iim{
+  opacity: 0.4;
+  position: absolute;
+}

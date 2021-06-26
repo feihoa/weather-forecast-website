@@ -1,24 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
+import Form from './input-zone/Form';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <>
+    <img className="iim" src='https://ucarecdn.com/6320962b-d4bf-4cfc-a66c-7972492f77c0/' height="90%"></img>
+    <div className="container">
+      <Form/>
     </div>
+    </>
   );
 }
 
