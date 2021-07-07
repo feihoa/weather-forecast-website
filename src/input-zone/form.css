@@ -1,10 +1,10 @@
 .search-input{
     margin-top: 3em;
-    margin-left: 1em;
+    margin-left: 2em;
 }
 
 .search-input__label{
-margin-right: 10px;
+    margin-right: 10px;
 }
 
 .search-input__input{
