@@ -1,0 +1,41 @@
+.temperature{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.humidity-wind-speed{
+    display: flex;
+    
+}
+
+.degrees{
+
+font-size: 45px;
+margin-left: 10%;
+}
+
+.date{
+    margin: 0px;
+    margin-top: 1em;
+}
+
+.humidity{
+display: inline;
+margin-right: 30px;
+margin-left:32;
+text-align: center;
+
+
+}
+.weather-kind{
+    margin-top: 0;
+}
+
+.wind-speed{
+display: inline;
+text-align: center;
+
+
+}

@@ -1,0 +1,11 @@
+.graph{
+    min-width: 60%;
+}
+
+.graph__data{
+    min-height:50px
+}
+
+.graph__temperature{
+    margin: 0;
+}

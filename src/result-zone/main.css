@@ -1,4 +1,13 @@
+@import url(./temperature.css);
+@import url(./graph.css);
+
+
 .main-box{
-    margin-top: 3em;
+    margin: 0;
+    margin-top: 2em;
     margin-left: 2em;
-}
+    max-width: 40%;
+    display: flex;
+    justify-content: space-between;
+    min-width: 90%;
+};
